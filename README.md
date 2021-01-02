@@ -10,5 +10,13 @@ Expecation of the python analysis file
 Perform simple linear regression on the data set including analysis of its accuracy
 
 
+Plan
+-Import dataset
+- create simple plot
+- plot simplet linear regressioni
+- test and predict agains other types of regression KNN neerest neightbours etc
+- use SkLearn models ?
+
+
 
 
